@@ -5,7 +5,7 @@ Este SDK de reconoSER ID, proporciona pantallas y métodos para aplicaciones web
 Este SDK se integra al API administrador de reconoSER ID, permitiendo visualizar las interacciones y acciones de sus usuarios mediante el authToken y el GUIDConvenio suministrados por el equipo comercial.
 ## **Requerimientos** ##
 
-## **El SDK Solicita los permisos al sistema de:** ##
+## **Permisos solicitados por el sistema** ##
 <ul>
 <li>Internet</li>
 <li>Cámara</li>
